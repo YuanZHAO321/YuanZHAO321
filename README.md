@@ -1,9 +1,14 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=210&section=header&text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&fontSize=44&fontColor=d8f3dc&fontAlignY=37&desc=Earth%20%26%20Planetary%20Sciences%20%C2%B7%20University%20of%20Manchester&descSize=15&descAlignY=57&descColor=95d5b2&animation=fadeIn" />
+<!-- ── HEADER ─────────────────────────────────────────────────── -->
+<!-- Wave top -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=140&section=header&animation=fadeIn" />
 
-<!-- Typing SVG — ASCII only, no Chinese -->
+<!-- Title block: plain text so it always renders -->
+<h1>Yuan Zhao &nbsp;/&nbsp; 赵元</h1>
+<p><em>Earth &amp; Planetary Sciences &nbsp;·&nbsp; University of Manchester</em></p>
+
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=580&lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;Almost+read+CS.+The+rocks+were+more+honest." alt="Typing SVG" />
 
 <br/>
@@ -193,6 +198,7 @@ yuanzhao321.github.io
 Shanghai -> Kuala Lumpur -> Manchester  ·  Built with Claude  ·  under grey skies
 ```
 
+<!-- Wave bottom -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1b4332,100:0d1b2a&height=120&section=footer&text=the+planet+is+4.5+billion+years+old.+none+of+this+is+urgent.&fontSize=12&fontColor=74c69d&fontAlignY=65&animation=fadeIn" />
 
 </div>
