@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1b2a,50:1b4332,100:2d6a4f&amp;height=210&amp;section=header&amp;text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&amp;fontSize=44&amp;fontColor=d8f3dc&amp;fontAlignY=37&amp;desc=Earth%20%26%20Planetary%20Sciences%20%C2%B7%20University%20of%20Manchester&amp;descSize=15&amp;descAlignY=57&amp;descColor=95d5b2&amp;animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1b2a,50:1b4332,100:2d6a4f&amp;height=210&amp;section=header&amp;text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&amp;fontSize=44&amp;fontColor=d8f3dc&amp;fontAlignY=37&amp;desc=Earth%20Sciences%20%C2%B7%20University%20of%20Manchester&amp;descSize=15&amp;descAlignY=57&amp;descColor=95d5b2&amp;animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;pause=1200&amp;color=52B788&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;Almost+read+CS.+The+rocks+were+more+honest." alt="Typing SVG" />
 
