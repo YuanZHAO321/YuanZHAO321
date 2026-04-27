@@ -1,7 +1,9 @@
 <div align="center">
 
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1b2a,50:1b4332,100:2d6a4f&amp;height=210&amp;section=header&amp;text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&amp;fontSize=44&amp;fontColor=d8f3dc&amp;fontAlignY=37&amp;desc=Earth%20Sciences%20%C2%B7%20University%20of%20Manchester&amp;descSize=15&amp;descAlignY=57&amp;descColor=95d5b2&amp;animation=fadeIn" />
 
+<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;pause=1200&amp;color=52B788&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;Almost+read+CS.+The+rocks+were+more+honest." alt="Typing SVG" />
 
 <br/>
@@ -12,70 +14,23 @@
 &nbsp;
 [![Manchester](https://img.shields.io/badge/University-Manchester-74c69d?style=for-the-badge&labelColor=0d1b2a)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
 
+<br/>
+
+*Geoscientist in training. Compulsive builder of things.*<br/>
+*Reads strata and people with equal patience.*<br/>
+*差点读CS，但岩石更诚实一些。*
+
 </div>
-
----
-
-## whoami
-
-```python
-yuan = {
-    "from"       : "Shanghai  ->  Kuala Lumpur (IGCSE)  ->  Manchester",
-    "study"      : "MEarthSci Earth & Planetary Sciences, Year 2",
-    "pathway"    : "Energy & Resources",
-    "first_year" : "71.667 — First Class Honours",
-
-    # Almost read CS. No regrets.
-    "by_day"     : "geological mapping, sedimentary sections, field work in the rain",
-    "by_night"   : "Python scripts, AI tools, worldbuilding systems, music curation",
-
-    "obsessions" : [
-        "military history  —  borderline obsessive",
-        "occult & esoterica  —  analytical lens, not belief",
-        "photography  —  compact camera, architecture / landscape / field",
-        "puzzle & social deduction games  —  Werewolf, escape rooms",
-        "AI  —  early GPT user, familiar with API / deployment / config",
-    ],
-
-    "selective"  : True,   # 朋友不多，但都很重要
-}
-```
-
----
-
-## 🪨 地球科学 × 💻 创意编程
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🔬 Earth Sciences
-
-Sedimentology · stratigraphy · surface processes  
-Reading how the planet records its own history —  
-one layer at a time, across millions of years.
-
-> *The rocks don't lie. They just speak slowly.*
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠 What I Build
-- AI-powered interactive tools &amp; systems
-- Worldbuilding frameworks &amp; narrative engines
-- Personal websites with no bundler, just files
-- Data analysis pipelines for Earth Sciences
-- Things that *probably* shouldn't exist
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🪨 Field & Research
 
+> *岩石不会说谎。它们只是说得很慢。*
+
 ```
+Year 1  ·  First Class Honours
+
 🗺  Geological field mapping — reading landscapes, not just maps
 ⛏  Structural geology — stereonets drawn by hand, in the field
 🧪  Sedimentary sections, thin section analysis, geochemistry
@@ -87,44 +42,6 @@ one layer at a time, across millions of years.
 ```
 
 **Selected coursework:** Sedimentary rocks & fossils · Structural geology · Geochemistry · Geospatial techniques · Advanced field techniques · Energy & resources · Global climate change
-
----
-
-## 🎵 Sound
-
-> **"美丽但不廉价，忧郁但不滥情。"**  
-> *Beautiful but not cheap, melancholic but not overwrought.*
-
-```
-日系城市流行  ·  粤语经典  ·  Anime OSTs
-K-pop  ·  Western pop & rock  ·  carefully curated
-
-7 cassette tapes  ·  140 songs  ·  zero skips
-sequenced obsessively, like it matters — because it does.
-```
-
----
-
-## 🗺 Travel & Place
-
-```
-Drawn to natural environments over cities.
-Mountains · coastlines · places without wifi.
-
-Currently based in Manchester 🌧
-(the rain is fine. the rocks are better.)
-```
-
----
-
-## 🎮 Games & Puzzles
-
-```
-社交推理游戏  /  谁是卧底  /  剧本杀  /  密室逃脱
-
-Pattern recognition as a way of reading people.
-The game ends. The reading doesn't.
-```
 
 ---
 
@@ -141,23 +58,31 @@ The game ends. The reading doesn't.
 ![HTML5](https://img.shields.io/badge/HTML5-0d1b2a?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1b2a?style=for-the-badge&logo=css3&logoColor=1572b6)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0d1b2a?style=for-the-badge&logo=latex&logoColor=95d5b2)
-![Linux](https://img.shields.io/badge/Linux%20%2F%20CLI-0d1b2a?style=for-the-badge&logo=linux&logoColor=fcc624)
+![Bash](https://img.shields.io/badge/Bash-0d1b2a?style=for-the-badge&logo=gnubash&logoColor=74c69d)
 
-**Frameworks & Tools**
+**Scientific Computing**
 
-![React](https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d1b2a?style=for-the-badge&logo=anaconda&logoColor=44a833)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2a?style=for-the-badge&logo=jupyter&logoColor=f37626)
-![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1b2a?style=for-the-badge&logo=githubactions&logoColor=52b788)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
+![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=e70488)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1b2a?style=for-the-badge&logo=python&logoColor=52b788)
+![SciPy](https://img.shields.io/badge/SciPy-0d1b2a?style=for-the-badge&logo=scipy&logoColor=8caae6)
 
 **Earth Sciences**
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0d1b2a?style=for-the-badge&logo=esri&logoColor=2c7bb6)
-![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
-![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=e70488)
+![GeoMapApp](https://img.shields.io/badge/GeoMapApp-0d1b2a?style=for-the-badge&logo=globe&logoColor=95d5b2)
 
-**AI Tools**
+**Dev & Infra**
+
+![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1b2a?style=for-the-badge&logo=githubactions&logoColor=52b788)
+![Linux](https://img.shields.io/badge/Linux-0d1b2a?style=for-the-badge&logo=linux&logoColor=fcc624)
+![Remote SSH](https://img.shields.io/badge/Remote_SSH-0d1b2a?style=for-the-badge&logo=openssh&logoColor=74c69d)
+![Self-hosted VPN](https://img.shields.io/badge/Self--hosted_VPN-0d1b2a?style=for-the-badge&logo=wireguard&logoColor=88171a)
+
+**AI**
 
 ![Claude](https://img.shields.io/badge/Claude-0d1b2a?style=for-the-badge&logo=anthropic&logoColor=d8f3dc)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0d1b2a?style=for-the-badge&logo=openai&logoColor=74c69d)
@@ -217,6 +142,48 @@ yuanzhao321.github.io
 
 ---
 
+## 🎵 Sound
+
+> *"美丽但不廉价，忧郁但不滥情。"*
+
+```
+日系城市流行 · 粤语经典 · Anime OSTs · K-pop · Western
+
+7 cassette tapes · 140 songs · 不随机播放
+sequenced obsessively, like it matters — because it does.
+```
+
+---
+
+## 其他的我
+
+```
+⚔️  军事史
+     borderline obsessive. no further explanation needed.
+     不解释，也不需要解释。
+
+🔮  神秘学
+     analytical lens, not belief.
+     世界的运作方式有很多种描述。
+
+📷  摄影
+     compact camera — architecture, landscape, field.
+     骨骼感的建筑，层次感的风景，野外的偶然。
+
+🌍  旅行
+     natural environments over cities, always.
+     有wifi的地方不算真正的户外。
+
+📖  小说
+     reads fiction the way others read data —
+     looking for the system underneath.
+
+🛠  occasionally deploys things that probably shouldn't run on a laptop.
+     local LLMs · cloned voices · self-hosted infrastructure
+```
+
+---
+
 ## 📬 Find Me
 
 <div align="center">
@@ -232,7 +199,7 @@ yuanzhao321.github.io
 <div align="center">
 
 ```
-Shanghai -> Kuala Lumpur -> Manchester  ·  Built with Claude  ·  under grey skies
+Shanghai → Kuala Lumpur → Manchester  ·  Built with Claude  ·  under grey skies
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2d6a4f,50:1b4332,100:0d1b2a&amp;height=120&amp;section=footer&amp;text=the+planet+is+4.5+billion+years+old.+none+of+this+is+urgent.&amp;fontSize=12&amp;fontColor=74c69d&amp;fontAlignY=65&amp;animation=fadeIn" />
