@@ -105,7 +105,7 @@ yuanzhao321.github.io
 ├── Stack    React (CDN) · Babel · CSS custom properties · no bundler
 ├── Design   Fraunces display · warm parchment · full dark mode
 ├── Feature  Live tweaks panel — theme / accent / typeset / density
-├── Writing  Long-form field prose — standalone HTML, 江南风格
+├── Writing  Long-form field prose — standalone HTML
 ├── Hosted   GitHub Pages + University of Manchester student server
 └── Footer   "Built in Manchester, with Claude."
 ```
