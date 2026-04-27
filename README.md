@@ -1,141 +1,94 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=210&section=header&text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&fontSize=44&fontColor=d8f3dc&fontAlignY=37&desc=Earth%20Sciences%20%C2%B7%20University%20of%20Manchester&descSize=15&descAlignY=57&descColor=95d5b2&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=210&section=header&text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&fontSize=44&fontColor=d8f3dc&fontAlignY=37&desc=Earth%20%26%20Planetary%20Sciences%20%C2%B7%20University%20of%20Manchester&descSize=15&descAlignY=57&descColor=95d5b2&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=560&lines=Reading+rocks+and+writing+code+in+equal+measure.;Somewhere+between+deep+time+and+the+present+moment.;Building+things+that+probably+shouldn%27t+exist.;4.5+billion+years+of+context+%E2%80%94+still+curious." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=580&lines=上海+%E2%86%92+吉隆坡+%E2%86%92+曼彻斯特.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;差点读CS%2C+但岩石更诚实一些." alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YuanZHAO321&style=for-the-badge&color=1b4332&label=VISITORS)](https://github.com/YuanZHAO321)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/YuanZHAO321?style=for-the-badge&color=2d6a4f&label=FOLLOWERS&labelColor=0d1b2a)](https://github.com/YuanZHAO321)
-&nbsp;
 [![Personal Site](https://img.shields.io/badge/🌐-yuanzhao321.github.io-52b788?style=for-the-badge&labelColor=0d1b2a)](https://yuanzhao321.github.io)
+&nbsp;
+[![Manchester](https://img.shields.io/badge/🎓-Manchester-74c69d?style=for-the-badge&labelColor=0d1b2a)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
 
 </div>
 
 ---
 
-## 🌍 whoami
+## whoami
 
 ```python
 yuan = {
-    "name"      : "Yuan Zhao  /  赵元",
-    "location"  : "Manchester, UK 🇬🇧  ←  somewhere in China 🇨🇳",
-    "study"     : "Earth Sciences · Year 2 · University of Manchester",
+    "from"       : "上海  →  吉隆坡 (IGCSE)  →  Manchester",
+    "study"      : "MEarthSci Earth & Planetary Sciences, Year 2",
+    "pathway"    : "Energy & Resources",
+    "first_year" : "71.667 — First Class Honours",
 
-    # 白天读岩石，夜里写代码
-    "by_day"    : "reading sedimentary records, thinking in deep time",
-    "by_night"  : "building interactive systems, curating 140 songs across 7 tapes",
+    # 差点读CS，最终选了岩石。没有后悔。
+    "by_day"     : "geological mapping, sedimentary sections, field work in the rain",
+    "by_night"   : "Python scripts, AI tools, worldbuilding systems, music curation",
 
-    "loves"     : [
-        "natural environments — mountains, coastlines, anywhere without wifi",
-        "puzzle-based social games  /  谁是卧底 · 剧本杀 · 密室",
-        "music that is beautiful but not cheap, melancholic but not overwrought",
-        "worldbuilding — constructing systems with their own internal logic",
-        "AI as a thinking partner, not just a tool",
+    "obsessions" : [
+        "military history  —  偏执级别的热情",
+        "occult & esoterica  —  分析视角，不是信仰视角",
+        "photography  —  卡片机，建筑 / 风景 / 野外",
+        "puzzle & social deduction games  —  谁是卧底 · 剧本杀 · 密室",
+        "AI  —  最早一批 GPT 用户，熟悉 API / 部署 / 配置",
     ],
 
-    "selective" : True,   # 朋友不多，但都很重要
-    "site"      : "https://yuanzhao321.github.io",
+    "selective"  : True,   # 朋友不多，但都很重要
 }
 ```
 
 ---
 
-## 🪨 地球科学 × 💻 创意编程
+## 🪨 Field & Research
 
-<table>
-<tr>
-<td valign="top" width="50%">
+> *岩石不会说谎。它们只是说得很慢。*
 
-### 🔬 Earth Sciences
-Sedimentology · stratigraphy · surface processes  
-Reading how the planet records its own history —  
-one layer at a time, across millions of years.
+```
+🗺  Geological field mapping — reading landscapes, not just maps
+⛏  Structural geology — stereonets drawn by hand, in the field
+🧪  Sedimentary sections, thin section analysis, geochemistry
+🌊  Ocean heat loss & crustal age–depth (with Neil Mitchell)
+🏔  Scotland field school, 14 days — Fort William + Dundee
+       metamorphic · tectonic · Devonian
+🏞  Mam Tor acid rock drainage assessment
+       (Upper Second — the water was not okay)
+```
 
-> *The rocks don't lie. They just speak slowly.*
-
-</td>
-<td valign="top" width="50%">
-
-### 🛠 What I Build
-- AI-powered interactive tools & systems
-- Worldbuilding frameworks & narrative engines
-- Personal websites with no bundler, just files
-- Data analysis pipelines for Earth Sciences
-- Things that *probably* shouldn't exist
-
-</td>
-</tr>
-</table>
+**Selected coursework:** Sedimentary rocks & fossils · Structural geology · Geochemistry · Geospatial techniques · Advanced field techniques · Energy & resources · Global climate change
 
 ---
 
-## 🎵 Sound
-
-> **"美丽但不廉价，忧郁但不滥情。"**  
-> *Beautiful but not cheap, melancholic but not overwrought.*
-
-```
-日系城市流行  ·  粤语经典  ·  Anime OSTs
-K-pop  ·  Western pop & rock  ·  carefully curated
-
-7 cassette tapes  ·  140 songs  ·  zero skips
-sequenced obsessively, like it matters — because it does.
-```
-
----
-
-## 🗺 Travel & Place
-
-```
-Drawn to natural environments over cities.
-Mountains · coastlines · places without wifi.
-
-Currently based in Manchester 🌧
-(the rain is fine. the rocks are better.)
-```
-
----
-
-## 🎮 Games & Puzzles
-
-```
-社交推理游戏  /  谁是卧底  /  剧本杀  /  密室逃脱
-
-Pattern recognition as a way of reading people.
-The game ends. The reading doesn't.
-```
-
----
-
-## ⚙️ Tech Stack
+## ⚙️ Skills
 
 <div align="center">
 
-**Languages**
+**Computation**
 
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=52b788)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1b2a?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1b2a?style=for-the-badge&logo=css3&logoColor=1572b6)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1b2a?style=for-the-badge&logo=mathworks&logoColor=e16737)
+![LaTeX](https://img.shields.io/badge/LaTeX-0d1b2a?style=for-the-badge&logo=latex&logoColor=95d5b2)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20CLI-0d1b2a?style=for-the-badge&logo=linux&logoColor=fcc624)
 
-**Frameworks & Tools**
+**Earth Sciences**
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0d1b2a?style=for-the-badge&logo=esri&logoColor=2c7bb6)
+![QGIS](https://img.shields.io/badge/QGIS-0d1b2a?style=for-the-badge&logo=qgis&logoColor=589632)
+![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=e70488)
+
+**Web & Dev**
 
 ![React](https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1b2a?style=for-the-badge&logo=githubactions&logoColor=52b788)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2a?style=for-the-badge&logo=jupyter&logoColor=f37626)
-
-**Earth Sciences**
-
-![QGIS](https://img.shields.io/badge/QGIS-0d1b2a?style=for-the-badge&logo=qgis&logoColor=589632)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0d1b2a?style=for-the-badge&logo=esri&logoColor=2c7bb6)
-![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
-![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=e70488)
 
 </div>
 
@@ -150,13 +103,13 @@ The game ends. The reading doesn't.
 </div>
 
 ```
- yuanzhao321.github.io
- ├── Stack    React (CDN) · CSS custom properties · Babel · no bundler
- ├── Design   Fraunces display · warm parchment · full dark mode
- ├── Feature  Live tweaks panel — theme, accent, typeset, density
- ├── Writing  Long-form field pieces in standalone HTML
- └── Hosted   GitHub Pages · University of Manchester
-              → Built in Manchester, with Claude.
+yuanzhao321.github.io
+├── Stack    React (CDN) · Babel · CSS custom properties · no bundler
+├── Design   Fraunces display · warm parchment · full dark mode
+├── Feature  Live tweaks panel — theme / accent / typeset / density
+├── Writing  Long-form field prose — standalone HTML, 江南风格
+├── Hosted   GitHub Pages + University of Manchester student server
+└── Footer   "Built in Manchester, with Claude."
 ```
 
 ---
@@ -191,13 +144,35 @@ The game ends. The reading doesn't.
 
 ---
 
+## 其他的我
+
+```
+🎵  音乐——美丽但不廉价，忧郁但不滥情
+     日系城市流行 · 粤语经典 · Anime OSTs · K-pop · Western
+     7 tapes · 140 songs · 不随机播放
+
+📷  摄影——卡片机
+     建筑的骨骼 / 风景的层次 / 野外记录
+
+⚔️  军事史——偏执级别的热情
+     不解释，也不需要解释
+
+🔮  神秘学——分析视角
+     世界的运作方式有很多种描述
+
+🌍  旅行——自然环境 > 城市
+     Mountains · coastlines · places without wifi
+```
+
+---
+
 ## 📬 Find Me
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Website-yuanzhao321.github.io-2d6a4f?style=for-the-badge&labelColor=0d1b2a)](https://yuanzhao321.github.io)
+[![Website](https://img.shields.io/badge/Personal_Site-yuanzhao321.github.io-2d6a4f?style=for-the-badge&labelColor=0d1b2a)](https://yuanzhao321.github.io)
 &nbsp;
-[![Email](https://img.shields.io/badge/📧_Email-manchester.ac.uk-1b4332?style=for-the-badge&labelColor=0d1b2a)](mailto:yuan.zhao-8@student.manchester.ac.uk)
+[![Manchester](https://img.shields.io/badge/University_Page-Manchester-1b4332?style=for-the-badge&labelColor=0d1b2a)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
 
 </div>
 
@@ -206,7 +181,7 @@ The game ends. The reading doesn't.
 <div align="center">
 
 ```
-Built in Manchester · with Claude · under grey skies
+上海 → 吉隆坡 → 曼彻斯特  ·  Built with Claude  ·  under grey skies
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1b4332,100:0d1b2a&height=120&section=footer&text=the+planet+is+4.5+billion+years+old.+none+of+this+is+urgent.&fontSize=12&fontColor=74c69d&fontAlignY=65&animation=fadeIn" />
