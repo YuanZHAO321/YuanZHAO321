@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=210&section=header&text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&fontSize=44&fontColor=d8f3dc&fontAlignY=37&desc=Earth%20%26%20Planetary%20Sciences%20%C2%B7%20University%20of%20Manchester&descSize=15&descAlignY=57&descColor=95d5b2&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1b2a,50:1b4332,100:2d6a4f&amp;height=210&amp;section=header&amp;text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&amp;fontSize=44&amp;fontColor=d8f3dc&amp;fontAlignY=37&amp;desc=Earth%20%26%20Planetary%20Sciences%20%C2%B7%20University%20of%20Manchester&amp;descSize=15&amp;descAlignY=57&amp;descColor=95d5b2&amp;animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=580&lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;Almost+read+CS.+The+rocks+were+more+honest." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;pause=1200&amp;color=52B788&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;Almost+read+CS.+The+rocks+were+more+honest." alt="Typing SVG" />
 
 <br/>
 
@@ -191,13 +191,13 @@ yuanzhao321.github.io
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YuanZHAO321&show_icons=true&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YuanZHAO321&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc&amp;icon_color=95d5b2&amp;count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanZHAO321&layout=compact&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanZHAO321&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuanZHAO321&theme=dark&background=0d1b2a&border=2d6a4f&stroke=2d6a4f&ring=52b788&fire=95d5b2&currStreakNum=d8f3dc&sideNums=d8f3dc&currStreakLabel=52b788&sideLabels=95d5b2&dates=74c69d" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuanZHAO321&amp;theme=dark&amp;background=0d1b2a&amp;border=2d6a4f&amp;stroke=2d6a4f&amp;ring=52b788&amp;fire=95d5b2&amp;currStreakNum=d8f3dc&amp;sideNums=d8f3dc&amp;currStreakLabel=52b788&amp;sideLabels=95d5b2&amp;dates=74c69d" />
 
 </div>
 
@@ -235,6 +235,6 @@ yuanzhao321.github.io
 Shanghai -> Kuala Lumpur -> Manchester  ·  Built with Claude  ·  under grey skies
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1b4332,100:0d1b2a&height=120&section=footer&text=the+planet+is+4.5+billion+years+old.+none+of+this+is+urgent.&fontSize=12&fontColor=74c69d&fontAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2d6a4f,50:1b4332,100:0d1b2a&amp;height=120&amp;section=footer&amp;text=the+planet+is+4.5+billion+years+old.+none+of+this+is+urgent.&amp;fontSize=12&amp;fontColor=74c69d&amp;fontAlignY=65&amp;animation=fadeIn" />
 
 </div>
