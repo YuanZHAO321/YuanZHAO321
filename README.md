@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ── HEADER ─────────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=210&section=header&text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&fontSize=44&fontColor=d8f3dc&fontAlignY=37&desc=Earth%20%26%20Planetary%20Sciences%20%C2%B7%20University%20of%20Manchester&descSize=15&descAlignY=57&descColor=95d5b2&animation=fadeIn" />
 
-<!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=580&lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;Almost+read+CS.+The+rocks+were+more+honest." alt="Typing SVG" />
 
 <br/>
@@ -45,9 +43,37 @@ yuan = {
 
 ---
 
-## 🪨 Field & Research
+## 🪨 地球科学 × 💻 创意编程
 
-> *岩石不会说谎。它们只是说得很慢。*
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🔬 Earth Sciences
+
+Sedimentology · stratigraphy · surface processes  
+Reading how the planet records its own history —  
+one layer at a time, across millions of years.
+
+> *The rocks don't lie. They just speak slowly.*
+
+</td>
+<td valign="top" width="50%">
+
+### 🛠 What I Build
+- AI-powered interactive tools &amp; systems
+- Worldbuilding frameworks &amp; narrative engines
+- Personal websites with no bundler, just files
+- Data analysis pipelines for Earth Sciences
+- Things that *probably* shouldn't exist
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🪨 Field & Research
 
 ```
 🗺  Geological field mapping — reading landscapes, not just maps
@@ -61,6 +87,44 @@ yuan = {
 ```
 
 **Selected coursework:** Sedimentary rocks & fossils · Structural geology · Geochemistry · Geospatial techniques · Advanced field techniques · Energy & resources · Global climate change
+
+---
+
+## 🎵 Sound
+
+> **"美丽但不廉价，忧郁但不滥情。"**  
+> *Beautiful but not cheap, melancholic but not overwrought.*
+
+```
+日系城市流行  ·  粤语经典  ·  Anime OSTs
+K-pop  ·  Western pop & rock  ·  carefully curated
+
+7 cassette tapes  ·  140 songs  ·  zero skips
+sequenced obsessively, like it matters — because it does.
+```
+
+---
+
+## 🗺 Travel & Place
+
+```
+Drawn to natural environments over cities.
+Mountains · coastlines · places without wifi.
+
+Currently based in Manchester 🌧
+(the rain is fine. the rocks are better.)
+```
+
+---
+
+## 🎮 Games & Puzzles
+
+```
+社交推理游戏  /  谁是卧底  /  剧本杀  /  密室逃脱
+
+Pattern recognition as a way of reading people.
+The game ends. The reading doesn't.
+```
 
 ---
 
@@ -153,28 +217,6 @@ yuanzhao321.github.io
 
 ---
 
-## 其他的我
-
-```
-🎵  音乐——美丽但不廉价，忧郁但不滥情
-     日系城市流行 · 粤语经典 · Anime OSTs · K-pop · Western
-     7 tapes · 140 songs · 不随机播放
-
-📷  摄影——卡片机
-     建筑的骨骼 / 风景的层次 / 野外记录
-
-⚔️  军事史——偏执级别的热情
-     不解释，也不需要解释
-
-🔮  神秘学——分析视角
-     世界的运作方式有很多种描述
-
-🌍  旅行——自然环境 > 城市
-     Mountains · coastlines · places without wifi
-```
-
----
-
 ## 📬 Find Me
 
 <div align="center">
@@ -193,7 +235,6 @@ yuanzhao321.github.io
 Shanghai -> Kuala Lumpur -> Manchester  ·  Built with Claude  ·  under grey skies
 ```
 
-<!-- Wave bottom -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1b4332,100:0d1b2a&height=120&section=footer&text=the+planet+is+4.5+billion+years+old.+none+of+this+is+urgent.&fontSize=12&fontColor=74c69d&fontAlignY=65&animation=fadeIn" />
 
 </div>
