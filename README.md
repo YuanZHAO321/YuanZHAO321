@@ -34,7 +34,7 @@ Year 1  ·  First Class Honours
 🗺  Geological field mapping — reading landscapes, not just maps
 ⛏  Structural geology — stereonets drawn by hand, in the field
 🧪  Sedimentary sections, thin section analysis, geochemistry
-🌊  Ocean heat loss & crustal age-depth relationship (with Neil Mitchell)
+🌊  Ocean heat loss & crustal age-depth relationship
 🏔  Scotland field school, 14 days — Fort William + Dundee
        metamorphic · tectonic · Devonian
 🏞  Mam Tor acid rock drainage water quality assessment
@@ -132,11 +132,9 @@ yuanzhao321.github.io
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/YuanZHAO321/YuanZHAO321/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuanZHAO321/YuanZHAO321/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YuanZHAO321/YuanZHAO321/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/YuanZHAO321/YuanZHAO321/output/github-contribution-grid-snake-dark.svg" />
+
+> 💡 Snake animation activates after the [GitHub Action](https://github.com/YuanZHAO321/YuanZHAO321/actions) runs for the first time.
 
 </div>
 
