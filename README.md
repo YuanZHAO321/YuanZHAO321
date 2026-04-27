@@ -3,15 +3,16 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4332,100:2d6a4f&height=210&section=header&text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&fontSize=44&fontColor=d8f3dc&fontAlignY=37&desc=Earth%20%26%20Planetary%20Sciences%20%C2%B7%20University%20of%20Manchester&descSize=15&descAlignY=57&descColor=95d5b2&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=580&lines=上海+%E2%86%92+吉隆坡+%E2%86%92+曼彻斯特.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;差点读CS%2C+但岩石更诚实一些." alt="Typing SVG" />
+<!-- Typing SVG — ASCII only, no Chinese -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1200&color=52B788&center=true&vCenter=true&width=580&lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;Reading+rocks+by+day%2C+writing+code+by+night.;Earth+Sciences+%7C+Energy+%26+Resources+pathway.;Almost+read+CS.+The+rocks+were+more+honest." alt="Typing SVG" />
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YuanZHAO321&style=for-the-badge&color=1b4332&label=VISITORS)](https://github.com/YuanZHAO321)
 &nbsp;
-[![Personal Site](https://img.shields.io/badge/🌐-yuanzhao321.github.io-52b788?style=for-the-badge&labelColor=0d1b2a)](https://yuanzhao321.github.io)
+[![Personal Site](https://img.shields.io/badge/Website-yuanzhao321.github.io-52b788?style=for-the-badge&labelColor=0d1b2a)](https://yuanzhao321.github.io)
 &nbsp;
-[![Manchester](https://img.shields.io/badge/🎓-Manchester-74c69d?style=for-the-badge&labelColor=0d1b2a)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
+[![Manchester](https://img.shields.io/badge/University-Manchester-74c69d?style=for-the-badge&labelColor=0d1b2a)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
 
 </div>
 
@@ -21,21 +22,21 @@
 
 ```python
 yuan = {
-    "from"       : "上海  →  吉隆坡 (IGCSE)  →  Manchester",
+    "from"       : "Shanghai  ->  Kuala Lumpur (IGCSE)  ->  Manchester",
     "study"      : "MEarthSci Earth & Planetary Sciences, Year 2",
     "pathway"    : "Energy & Resources",
     "first_year" : "71.667 — First Class Honours",
 
-    # 差点读CS，最终选了岩石。没有后悔。
+    # Almost read CS. No regrets.
     "by_day"     : "geological mapping, sedimentary sections, field work in the rain",
     "by_night"   : "Python scripts, AI tools, worldbuilding systems, music curation",
 
     "obsessions" : [
-        "military history  —  偏执级别的热情",
-        "occult & esoterica  —  分析视角，不是信仰视角",
-        "photography  —  卡片机，建筑 / 风景 / 野外",
-        "puzzle & social deduction games  —  谁是卧底 · 剧本杀 · 密室",
-        "AI  —  最早一批 GPT 用户，熟悉 API / 部署 / 配置",
+        "military history  —  borderline obsessive",
+        "occult & esoterica  —  analytical lens, not belief",
+        "photography  —  compact camera, architecture / landscape / field",
+        "puzzle & social deduction games  —  Werewolf, escape rooms",
+        "AI  —  early GPT user, familiar with API / deployment / config",
     ],
 
     "selective"  : True,   # 朋友不多，但都很重要
@@ -52,10 +53,10 @@ yuan = {
 🗺  Geological field mapping — reading landscapes, not just maps
 ⛏  Structural geology — stereonets drawn by hand, in the field
 🧪  Sedimentary sections, thin section analysis, geochemistry
-🌊  Ocean heat loss & crustal age–depth (with Neil Mitchell)
+🌊  Ocean heat loss & crustal age-depth relationship (with Neil Mitchell)
 🏔  Scotland field school, 14 days — Fort William + Dundee
        metamorphic · tectonic · Devonian
-🏞  Mam Tor acid rock drainage assessment
+🏞  Mam Tor acid rock drainage water quality assessment
        (Upper Second — the water was not okay)
 ```
 
@@ -63,32 +64,40 @@ yuan = {
 
 ---
 
-## ⚙️ Skills
+## ⚙️ Tech Stack
 
 <div align="center">
 
-**Computation**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=52b788)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![R](https://img.shields.io/badge/R-0d1b2a?style=for-the-badge&logo=r&logoColor=276dc3)
+![MATLAB](https://img.shields.io/badge/MATLAB-0d1b2a?style=for-the-badge&logo=mathworks&logoColor=e16737)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1b2a?style=for-the-badge&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1b2a?style=for-the-badge&logo=css3&logoColor=1572b6)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d1b2a?style=for-the-badge&logo=mathworks&logoColor=e16737)
 ![LaTeX](https://img.shields.io/badge/LaTeX-0d1b2a?style=for-the-badge&logo=latex&logoColor=95d5b2)
 ![Linux](https://img.shields.io/badge/Linux%20%2F%20CLI-0d1b2a?style=for-the-badge&logo=linux&logoColor=fcc624)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2a?style=for-the-badge&logo=jupyter&logoColor=f37626)
+![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1b2a?style=for-the-badge&logo=githubactions&logoColor=52b788)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d1b2a?style=for-the-badge&logo=visualstudiocode&logoColor=007acc)
 
 **Earth Sciences**
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-0d1b2a?style=for-the-badge&logo=esri&logoColor=2c7bb6)
-![QGIS](https://img.shields.io/badge/QGIS-0d1b2a?style=for-the-badge&logo=qgis&logoColor=589632)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=e70488)
 
-**Web & Dev**
+**AI Tools**
 
-![React](https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1b2a?style=for-the-badge&logo=githubactions&logoColor=52b788)
+![Claude](https://img.shields.io/badge/Claude-0d1b2a?style=for-the-badge&logo=anthropic&logoColor=d8f3dc)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0d1b2a?style=for-the-badge&logo=openai&logoColor=74c69d)
+![Ollama](https://img.shields.io/badge/Ollama-0d1b2a?style=for-the-badge&logo=ollama&logoColor=95d5b2)
 
 </div>
 
@@ -181,7 +190,7 @@ yuanzhao321.github.io
 <div align="center">
 
 ```
-上海 → 吉隆坡 → 曼彻斯特  ·  Built with Claude  ·  under grey skies
+Shanghai -> Kuala Lumpur -> Manchester  ·  Built with Claude  ·  under grey skies
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d6a4f,50:1b4332,100:0d1b2a&height=120&section=footer&text=the+planet+is+4.5+billion+years+old.+none+of+this+is+urgent.&fontSize=12&fontColor=74c69d&fontAlignY=65&animation=fadeIn" />
