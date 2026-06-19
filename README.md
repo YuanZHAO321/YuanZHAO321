@@ -22,7 +22,7 @@
 
 </div>
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
 ## 🪨 Field & Research
 
@@ -43,7 +43,7 @@ Year 1  ·  First Class Honours
 
 **Selected coursework:** Sedimentary rocks & fossils · Structural geology · Geochemistry · Geospatial techniques · Advanced field techniques · Energy & resources · Global climate change
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
 ## ⚙️ Tech Stack
 
@@ -52,6 +52,7 @@ Year 1  ·  First Class Honours
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=52b788)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=3178c6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![R](https://img.shields.io/badge/R-0d1b2a?style=for-the-badge&logo=r&logoColor=276dc3)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0d1b2a?style=for-the-badge&logo=mathworks&logoColor=e16737)
@@ -68,6 +69,13 @@ Year 1  ·  First Class Honours
 ![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=e70488)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1b2a?style=for-the-badge&logo=python&logoColor=52b788)
 ![SciPy](https://img.shields.io/badge/SciPy-0d1b2a?style=for-the-badge&logo=scipy&logoColor=8caae6)
+
+**Web & App**
+
+![React](https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0d1b2a?style=for-the-badge&logo=nodedotjs&logoColor=52b788)
+![Electron](https://img.shields.io/badge/Electron-0d1b2a?style=for-the-badge&logo=electron&logoColor=9feaf9)
+![PWA](https://img.shields.io/badge/PWA-0d1b2a?style=for-the-badge&logo=pwa&logoColor=74c69d)
 
 **Earth Sciences**
 
@@ -90,43 +98,58 @@ Year 1  ·  First Class Honours
 
 </div>
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
-## 📌 Featured Project
+## 🛠 Things I Build · 在造的东西
+
+> *一个反复出现的模式：把一个 LLM 包进本地优先、跨平台、有点 niche 的壳里。*<br>
+> *A recurring pattern — wrap an LLM in something local-first, cross-platform, and a little niche.*
 
 <div align="center">
 
+[![AI-Casino](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=AI-Casino&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://github.com/YuanZHAO321/AI-Casino)
+&nbsp;
+[![FengShuiCalculators](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=FengShuiCalculators&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://github.com/YuanZHAO321/FengShuiCalculators)
+
+[![KanBan](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=KanBan&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://github.com/YuanZHAO321/KanBan)
+&nbsp;
 [![Personal Website](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=YuanZHAO321.github.io&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://yuanzhao321.github.io)
 
 </div>
 
-```
-yuanzhao321.github.io
-├── Stack    React (CDN) · Babel · CSS custom properties · no bundler
-├── Design   Fraunces display · warm parchment · full dark mode
-├── Feature  Live tweaks panel — theme / accent / typeset / density
-├── Writing  Long-form field prose — standalone HTML
-├── Hosted   GitHub Pages + University of Manchester student server
-└── Footer   "Built in Manchester, with Claude."
-```
+| Project | What it is |
+|---|---|
+| 🂡 **[AI-Casino](https://github.com/YuanZHAO321/AI-Casino)** | 拟真赌场，让 LLM 坐到你对面发牌、陪你吐槽。Electron + 网页 PWA，同一套核心 · `116 tests` · 防天眼架构 |
+| 🧭 **[FengShuiCalculators](https://github.com/YuanZHAO321/FengShuiCalculators)** | 八字 · 玄空飞星 · 通书 · 奇门——自研天文历法引擎（Meeus），节气精确到分钟，叠加 AI 解读 |
+| 📋 **[KanBan](https://github.com/YuanZHAO321/KanBan)** | 一块和风纸感的复习看板，为长期记忆而生。单文件 web app，也打包成桌面版 |
+| 🌐 **[yuanzhao321.github.io](https://yuanzhao321.github.io)** | 个人站点：React (CDN) · 无构建 · 暖纸主题 + 全暗色 · 实时调参面板 · 长文随笔 |
+| 🌙 **[tarot-waite.skill](https://github.com/YuanZHAO321/tarot-waite.skill)** | 一份韦特塔罗 Claude Skill——由真实手稿转化的「解读能力」，不是牌意数据库 |
+| 🛡 **[WechatRevokeCountermeasure](https://github.com/YuanZHAO321/WechatRevokeCountermeasure)** | Windows 微信防撤回：注册表定位 + DLL 特征码补丁，覆盖 2.7 → 4.1.x |
+| 🐛 **[Project_Y2K](https://github.com/YuanZHAO321/Project_Y2K)** | 千年虫计划——把大一大二的全部笔记打包封存。`大二已死，大二永存。` |
 
----
+> *Local-first · OpenAI-compatible · Electron + PWA · privacy stays on your machine.*
+
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YuanZHAO321&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc&amp;icon_color=95d5b2&amp;count_private=true" />
+<img height="165" alt="Yuan Zhao's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YuanZHAO321&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc&amp;icon_color=95d5b2&amp;count_private=true" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanZHAO321&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanZHAO321&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YuanZHAO321&amp;theme=dark&amp;background=0d1b2a&amp;border=2d6a4f&amp;stroke=2d6a4f&amp;ring=52b788&amp;fire=95d5b2&amp;currStreakNum=d8f3dc&amp;sideNums=d8f3dc&amp;currStreakLabel=52b788&amp;sideLabels=95d5b2&amp;dates=74c69d" />
+<img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YuanZHAO321&amp;theme=dark&amp;background=0d1b2a&amp;border=2d6a4f&amp;stroke=2d6a4f&amp;ring=52b788&amp;fire=95d5b2&amp;currStreakNum=d8f3dc&amp;sideNums=d8f3dc&amp;currStreakLabel=52b788&amp;sideLabels=95d5b2&amp;dates=74c69d" />
+
+<br/><br/>
+
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YuanZHAO321&amp;bg_color=0d1b2a&amp;title_color=52b788&amp;color=d8f3dc&amp;line=52b788&amp;point=95d5b2&amp;area=true&amp;area_color=1b4332&amp;hide_border=false&amp;border_color=2d6a4f&amp;custom_title=Contribution%20Graph%20%C2%B7%20like%20strata%2C%20laid%20down%20daily" />
 
 </div>
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
 ## 🐍 Contribution Snake
 
@@ -138,7 +161,7 @@ yuanzhao321.github.io
 
 </div>
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
 ## 🎵 Sound
 
@@ -151,9 +174,9 @@ yuanzhao321.github.io
 sequenced obsessively, like it matters — because it does.
 ```
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
-## 其他的我
+## 🎐 Off the Clock · 其他的我
 
 ```
 ⚔️  军事史
@@ -180,7 +203,7 @@ sequenced obsessively, like it matters — because it does.
      local LLMs · cloned voices · self-hosted infrastructure
 ```
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
 ## 📬 Find Me
 
@@ -192,7 +215,7 @@ sequenced obsessively, like it matters — because it does.
 
 </div>
 
----
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
 
 <div align="center">
 
