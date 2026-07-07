@@ -2,17 +2,17 @@
 
 <!-- ══════════════════ HEADER ══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1b2a,50:1b4332,100:2d6a4f&amp;height=210&amp;section=header&amp;text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&amp;fontSize=44&amp;fontColor=d8f3dc&amp;fontAlignY=37&amp;desc=University%20of%20Manchester%20%C2%B7%20%E6%B2%AA%E4%B8%8A%20%E2%86%92%20%E6%9B%BC%E5%9F%8E&amp;descSize=15&amp;descAlignY=57&amp;descColor=95d5b2&amp;animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c08,50:5c0e14,100:6e5a1e&amp;height=210&amp;section=header&amp;text=Yuan%20Zhao%20%2F%20%E8%B5%B5%E5%85%83&amp;fontSize=44&amp;fontColor=f5ead0&amp;fontAlignY=37&amp;desc=University%20of%20Manchester%20%C2%B7%20%E6%B2%AA%E4%B8%8A%20%E2%86%92%20%E6%9B%BC%E5%9F%8E&amp;descSize=15&amp;descAlignY=57&amp;descColor=f0d68a&amp;animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;pause=1200&amp;color=52B788&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;War+history%2C+mysticism%2C+machines.;Compiling+the+classics+into+SKILL.md.;Trust+the+terminal.+Consult+the+hexagrams." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=15&amp;pause=1200&amp;color=D4AF37&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Shanghai+%E2%86%92+Kuala+Lumpur+%E2%86%92+Manchester.;War+history%2C+mysticism%2C+machines.;Compiling+the+classics+into+SKILL.md.;Trust+the+terminal.+Consult+the+hexagrams." alt="Typing SVG" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YuanZHAO321&style=for-the-badge&color=1b4332&label=VISITORS)](https://github.com/YuanZHAO321)
+[![Profile Views](https://komarev.com/ghpvc/?username=YuanZHAO321&style=for-the-badge&color=5c0e14&label=VISITORS)](https://github.com/YuanZHAO321)
 &nbsp;
-[![Personal Site](https://img.shields.io/badge/Website-yuanzhao321.github.io-52b788?style=for-the-badge&labelColor=0d1b2a)](https://yuanzhao321.github.io)
+[![Personal Site](https://img.shields.io/badge/Website-yuanzhao321.github.io-d4af37?style=for-the-badge&labelColor=0f0c08)](https://yuanzhao321.github.io)
 &nbsp;
-[![Manchester](https://img.shields.io/badge/University-Manchester-74c69d?style=for-the-badge&labelColor=0d1b2a)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
+[![Manchester](https://img.shields.io/badge/University-Manchester-c9a227?style=for-the-badge&labelColor=0f0c08)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 </div>
 
-<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c08,50:d4af37,100:0f0c08&amp;height=3" /></div>
 
 <!-- ══════════════════ 〇 档案 ══════════════════ -->
 
@@ -54,7 +54,7 @@ $ cat /classified/dossier_YZ321.txt                [ 密级：公开阅览 ]
 $ _
 ```
 
-<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c08,50:d4af37,100:0f0c08&amp;height=3" /></div>
 
 <!-- ══════════════════ 壹 藏书阁 ══════════════════ -->
 
@@ -71,9 +71,9 @@ $ _
 
 <div align="center">
 
-[![strategist-mind](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=strategist-mind&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://github.com/YuanZHAO321/strategist-mind)
+[![strategist-mind](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=strategist-mind&theme=dark&bg_color=0f0c08&border_color=6e5a1e&title_color=d4af37&text_color=f5ead0&icon_color=f0d68a)](https://github.com/YuanZHAO321/strategist-mind)
 &nbsp;
-[![Poetic-Diplomacy](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=Poetic-Diplomacy&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://github.com/YuanZHAO321/Poetic-Diplomacy)
+[![Poetic-Diplomacy](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=Poetic-Diplomacy&theme=dark&bg_color=0f0c08&border_color=6e5a1e&title_color=d4af37&text_color=f5ead0&icon_color=f0d68a)](https://github.com/YuanZHAO321/Poetic-Diplomacy)
 
 </div>
 
@@ -108,7 +108,7 @@ $ _
 | 📄 **[Academic-Writing](https://github.com/YuanZHAO321/Academic-Writing)** | 英文学术写作全流程：论文结构、文风打磨、图表公式、修改与投稿 |
 | 📝 **[Academic-Writing-zh](https://github.com/YuanZHAO321/Academic-Writing-zh)** | 同源中文版——用中文教英文学术写作，内容一致，语言随你 |
 
-<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c08,50:d4af37,100:0f0c08&amp;height=3" /></div>
 
 <!-- ══════════════════ 贰 武库 ══════════════════ -->
 
@@ -120,9 +120,9 @@ $ _
 
 <div align="center">
 
-[![AI-Casino](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=AI-Casino&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://github.com/YuanZHAO321/AI-Casino)
+[![AI-Casino](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=AI-Casino&theme=dark&bg_color=0f0c08&border_color=6e5a1e&title_color=d4af37&text_color=f5ead0&icon_color=f0d68a)](https://github.com/YuanZHAO321/AI-Casino)
 &nbsp;
-[![WechatRevokeCountermeasure](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=WechatRevokeCountermeasure&theme=dark&bg_color=0d1b2a&border_color=2d6a4f&title_color=52b788&text_color=d8f3dc&icon_color=95d5b2)](https://github.com/YuanZHAO321/WechatRevokeCountermeasure)
+[![WechatRevokeCountermeasure](https://github-readme-stats.vercel.app/api/pin/?username=YuanZHAO321&repo=WechatRevokeCountermeasure&theme=dark&bg_color=0f0c08&border_color=6e5a1e&title_color=d4af37&text_color=f5ead0&icon_color=f0d68a)](https://github.com/YuanZHAO321/WechatRevokeCountermeasure)
 
 </div>
 
@@ -137,7 +137,7 @@ $ _
 
 > *Local-first · OpenAI-compatible · Electron + PWA · privacy stays on your machine.*
 
-<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c08,50:d4af37,100:0f0c08&amp;height=3" /></div>
 
 <!-- ══════════════════ 叁 装备 ══════════════════ -->
 
@@ -147,35 +147,35 @@ $ _
 <div align="center">
 
 <sub>制式武器 · standard issue</sub><br/>
-![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=52b788)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1b2a?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![R](https://img.shields.io/badge/R-0d1b2a?style=for-the-badge&logo=r&logoColor=276dc3)
-![MATLAB](https://img.shields.io/badge/MATLAB-0d1b2a?style=for-the-badge&logo=mathworks&logoColor=e16737)
-![LaTeX](https://img.shields.io/badge/LaTeX-0d1b2a?style=for-the-badge&logo=latex&logoColor=95d5b2)
+![Python](https://img.shields.io/badge/Python-0f0c08?style=for-the-badge&logo=python&logoColor=d4af37)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c08?style=for-the-badge&logo=typescript&logoColor=3178c6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c08?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![R](https://img.shields.io/badge/R-0f0c08?style=for-the-badge&logo=r&logoColor=276dc3)
+![MATLAB](https://img.shields.io/badge/MATLAB-0f0c08?style=for-the-badge&logo=mathworks&logoColor=e16737)
+![LaTeX](https://img.shields.io/badge/LaTeX-0f0c08?style=for-the-badge&logo=latex&logoColor=f0d68a)
 
 <sub>情报分析 · intelligence</sub><br/>
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1b2a?style=for-the-badge&logo=jupyter&logoColor=f37626)
-![NumPy](https://img.shields.io/badge/NumPy-0d1b2a?style=for-the-badge&logo=numpy&logoColor=4dabcf)
-![Pandas](https://img.shields.io/badge/Pandas-0d1b2a?style=for-the-badge&logo=pandas&logoColor=e70488)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-0d1b2a?style=for-the-badge&logo=esri&logoColor=2c7bb6)
+![Jupyter](https://img.shields.io/badge/Jupyter-0f0c08?style=for-the-badge&logo=jupyter&logoColor=f37626)
+![NumPy](https://img.shields.io/badge/NumPy-0f0c08?style=for-the-badge&logo=numpy&logoColor=4dabcf)
+![Pandas](https://img.shields.io/badge/Pandas-0f0c08?style=for-the-badge&logo=pandas&logoColor=e70488)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-0f0c08?style=for-the-badge&logo=esri&logoColor=2c7bb6)
 
 <sub>阵地工事 · fortifications</sub><br/>
-![React](https://img.shields.io/badge/React-0d1b2a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-0d1b2a?style=for-the-badge&logo=nodedotjs&logoColor=52b788)
-![Electron](https://img.shields.io/badge/Electron-0d1b2a?style=for-the-badge&logo=electron&logoColor=9feaf9)
-![Git](https://img.shields.io/badge/Git-0d1b2a?style=for-the-badge&logo=git&logoColor=f05032)
-![Linux](https://img.shields.io/badge/Linux-0d1b2a?style=for-the-badge&logo=linux&logoColor=fcc624)
+![React](https://img.shields.io/badge/React-0f0c08?style=for-the-badge&logo=react&logoColor=61dafb)
+![Node.js](https://img.shields.io/badge/Node.js-0f0c08?style=for-the-badge&logo=nodedotjs&logoColor=d4af37)
+![Electron](https://img.shields.io/badge/Electron-0f0c08?style=for-the-badge&logo=electron&logoColor=9feaf9)
+![Git](https://img.shields.io/badge/Git-0f0c08?style=for-the-badge&logo=git&logoColor=f05032)
+![Linux](https://img.shields.io/badge/Linux-0f0c08?style=for-the-badge&logo=linux&logoColor=fcc624)
 
 <sub>通灵装置 · divination devices</sub><br/>
-![Claude](https://img.shields.io/badge/Claude-0d1b2a?style=for-the-badge&logo=anthropic&logoColor=d8f3dc)
-![Ollama](https://img.shields.io/badge/Ollama-0d1b2a?style=for-the-badge&logo=ollama&logoColor=95d5b2)
+![Claude](https://img.shields.io/badge/Claude-0f0c08?style=for-the-badge&logo=anthropic&logoColor=f5ead0)
+![Ollama](https://img.shields.io/badge/Ollama-0f0c08?style=for-the-badge&logo=ollama&logoColor=f0d68a)
 
 <sub>*另含制式外装备：Bash · SSH · GitHub Actions · self-hosted VPN · 来源不予说明*</sub>
 
 </div>
 
-<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c08,50:d4af37,100:0f0c08&amp;height=3" /></div>
 
 <!-- ══════════════════ 肆 战报 ══════════════════ -->
 
@@ -186,9 +186,9 @@ $ _
 
 <div align="center">
 
-<img height="165" alt="Yuan Zhao's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YuanZHAO321&amp;show_icons=true&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc&amp;icon_color=95d5b2&amp;count_private=true" />
+<img height="165" alt="Yuan Zhao's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YuanZHAO321&amp;show_icons=true&amp;theme=dark&amp;bg_color=0f0c08&amp;border_color=6e5a1e&amp;title_color=d4af37&amp;text_color=f5ead0&amp;icon_color=f0d68a&amp;count_private=true" />
 &nbsp;
-<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanZHAO321&amp;layout=compact&amp;theme=dark&amp;bg_color=0d1b2a&amp;border_color=2d6a4f&amp;title_color=52b788&amp;text_color=d8f3dc" />
+<img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuanZHAO321&amp;layout=compact&amp;theme=dark&amp;bg_color=0f0c08&amp;border_color=6e5a1e&amp;title_color=d4af37&amp;text_color=f5ead0" />
 
 <br/><br/>
 
@@ -223,7 +223,7 @@ $ _
 
 <sub>*附录：磁带 7 盘 140 首、顺序排过、不随机播放；便携相机一台；偏爱没有 wifi 的荒野。*</sub>
 
-<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1b2a,50:52b788,100:0d1b2a&amp;height=3" /></div>
+<div align="center"><img width="78%" alt="" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f0c08,50:d4af37,100:0f0c08&amp;height=3" /></div>
 
 <!-- ══════════════════ 陆 信道 ══════════════════ -->
 
@@ -234,9 +234,9 @@ $ _
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Personal_Site-yuanzhao321.github.io-2d6a4f?style=for-the-badge&labelColor=0d1b2a)](https://yuanzhao321.github.io)
+[![Website](https://img.shields.io/badge/Personal_Site-yuanzhao321.github.io-6e5a1e?style=for-the-badge&labelColor=0f0c08)](https://yuanzhao321.github.io)
 &nbsp;
-[![Manchester](https://img.shields.io/badge/University_Page-Manchester-1b4332?style=for-the-badge&labelColor=0d1b2a)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
+[![Manchester](https://img.shields.io/badge/University_Page-Manchester-5c0e14?style=for-the-badge&labelColor=0f0c08)](https://personalpages.manchester.ac.uk/student/yuan.zhao-8/)
 
 </div>
 
@@ -250,6 +250,6 @@ $ _
 Shanghai → Kuala Lumpur → Manchester  ·  Built with Claude  ·  under grey skies
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2d6a4f,50:1b4332,100:0d1b2a&amp;height=120&amp;section=footer&amp;text=%E5%A4%A9%E6%9C%BA%E4%B8%8D%E5%8F%AF%E6%B3%84%E9%9C%B2%EF%BC%8C%E4%BD%86%E4%BB%A3%E7%A0%81%E5%BC%80%E6%BA%90%E3%80%82&amp;fontSize=14&amp;fontColor=74c69d&amp;fontAlignY=65&amp;animation=fadeIn" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6e5a1e,50:5c0e14,100:0f0c08&amp;height=120&amp;section=footer&amp;text=%E5%A4%A9%E6%9C%BA%E4%B8%8D%E5%8F%AF%E6%B3%84%E9%9C%B2%EF%BC%8C%E4%BD%86%E4%BB%A3%E7%A0%81%E5%BC%80%E6%BA%90%E3%80%82&amp;fontSize=14&amp;fontColor=c9a227&amp;fontAlignY=65&amp;animation=fadeIn" alt="footer" />
 
 </div>
